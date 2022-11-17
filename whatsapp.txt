@@ -11,3 +11,5 @@ Whatsapp app code.
 5.Keyboard usage code
 
 6.Audio call code
+
+7.statusbar feature code
