@@ -1,0 +1,11 @@
+Whatsapp app code.
+
+1.Login code
+
+2.profile code
+
+3.Chatting code
+
+4.Messaging code.
+
+5.Keyboard usage code
