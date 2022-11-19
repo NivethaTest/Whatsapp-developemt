@@ -12,6 +12,8 @@ Whatsapp app code.
 
 6.Audio call code
 
-7.statusbar feature code and status hide code
+7.statusbar feature code 
+
+status hide bar
 
 8.Video call feature code
